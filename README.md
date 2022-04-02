@@ -25,6 +25,7 @@ Prepared statements are so useful that they are the only feature that PDO will e
 This ensures that an application will be able to use the same data access paradigm regardless of the capabilities of the database.
 
 for more information about prepared stmt : https://www.php.net/manual/en/pdo.prepared-statements.php
+
 EXAMPLE -------------------
 This example performs an INSERT query by substituting a name and a value for the named placeholders.
 <?php
@@ -43,7 +44,14 @@ $value = 2;
 $stmt->execute();
 
 ?>
-
 -------------------------------------------------------------------
+
+FOR MORE INFORMATION ABOUT PDO CONSTANTS : https://www.php.net/manual/en/pdo.constants.php
+
+PDO::FETCH_ASSOC (int)
+Specifies that the fetch method shall return each row as an array indexed by column name as returned in the corresponding result set. 
+If the result set contains multiple columns with the same name, 
+PDO::FETCH_ASSOC returns only a single value per column name.
+
 
 

@@ -1,7 +1,11 @@
 # crud_php
 TP: CRUD with PHP
 
-![image](CRUD_app/imgs/home_page)
+![image](https://github.com/sbaisCodes/crud_php/blob/main/CRUD_app/imgs/home_page.PNG)
+![image](https://github.com/sbaisCodes/crud_php/blob/main/CRUD_app/imgs/create.PNG)
+![image](https://github.com/sbaisCodes/crud_php/blob/main/CRUD_app/imgs/delete.PNG)
+![image](https://github.com/sbaisCodes/crud_php/blob/main/CRUD_app/imgs/update.PNG)
+![image](https://github.com/sbaisCodes/crud_php/blob/main/CRUD_app/imgs/read.PNG)
 
 
 

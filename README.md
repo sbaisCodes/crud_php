@@ -8,8 +8,7 @@ It includes :
 - a function to connect to the DB 
 - the second one to generate the header 
 - the third one to generate the footer
- -->
-<!-- 
+
 ------------------------------------------------------------------------------	
 - Connecting to DB function : 
 Contains the PDO method which is a lean and consistent way to abstract the way we access the DB, PDO or PHP Data Object use the object oriented paradigm so it just works for PHP 5 and above and it works with multiple DB, for more information visit : 

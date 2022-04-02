@@ -1,7 +1,7 @@
 # crud_php
 TP: CRUD with PHP
 
-![image](./imgs/home_page)
+![image](CRUD_app/imgs/home_page)
 
 
 

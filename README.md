@@ -1,5 +1,11 @@
 # crud_php
 TP: CRUD with PHP
+
+![image](https://user-images.githubusercontent.com/97205248/161361715-ed236956-fe32-4b5d-9ecd-0529b5e328f5.png)
+
+
+
+
 ### Function.php
 
 To avoid writing the same code each time 
